@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521142671 source:f:\projects\b\3-7-exercise\main.cpp
+	<iostream>
+	<stdexcept>
+

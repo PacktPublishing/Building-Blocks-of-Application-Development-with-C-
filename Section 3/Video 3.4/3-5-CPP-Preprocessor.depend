@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518373685 source:f:\projects\b\3-5-cpp-preprocessor\main.cpp
+	<iostream>
+	<windows.h>
+	<unistd.h>
+
